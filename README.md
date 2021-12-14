@@ -1,5 +1,5 @@
 - 👋 Hi, I’m samir 
-- 👀 I’m interested in WEB development
+- 👀 I’m interested in WEB development and mobile development
 - 🌱 I’m currently learning flutter framework
 - 📫 How to reach me https://www.linkedin.com/in/samirgamal/
 
